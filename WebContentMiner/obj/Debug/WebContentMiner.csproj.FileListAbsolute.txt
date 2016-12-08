@@ -1,0 +1,9 @@
+E:\WebContentMiner\WebContentMiner\bin\Debug\WebContentMiner.exe
+E:\WebContentMiner\WebContentMiner\bin\Debug\WebContentMiner.pdb
+E:\WebContentMiner\WebContentMiner\bin\Debug\itextsharp.dll
+E:\WebContentMiner\WebContentMiner\obj\Debug\ResolveAssemblyReference.cache
+E:\WebContentMiner\WebContentMiner\obj\Debug\WebContentMiner.frm_WebContentMiner.resources
+E:\WebContentMiner\WebContentMiner\obj\Debug\WebContentMiner.Properties.Resources.resources
+E:\WebContentMiner\WebContentMiner\obj\Debug\WebContentMiner.csproj.GenerateResource.Cache
+E:\WebContentMiner\WebContentMiner\obj\Debug\WebContentMiner.exe
+E:\WebContentMiner\WebContentMiner\obj\Debug\WebContentMiner.pdb
